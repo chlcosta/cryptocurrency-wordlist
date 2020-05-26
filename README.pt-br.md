@@ -3,7 +3,7 @@ Wordlist utilizada para pesquisa forense de palavras-chave relacionadas a criptm
 
 **Número de termos: 1.169 (26/05/2020).**
 
-*[Changelog](changelog.md).*
+*[Changelog](changelog.md)*
 
 ## Refências
 A wordlist foi gerada com base nas palavras-chave coletas dos seguintes sites:
