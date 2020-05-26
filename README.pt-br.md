@@ -1,5 +1,6 @@
 # Wordlist de Criptomoedas para uso Forense
 Wordlist utilizada para pesquisa forense de palavras-chave relacionadas a criptmoedas.
+
 **Número de termos: 1.169 (26/05/2020).**
 
 ## Refências
